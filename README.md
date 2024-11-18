@@ -23,6 +23,7 @@ Power BI Desktop for report creation and visualization.
 Excel/CSV: The dataset format for employee data (imported into Power BI).
 
 Usage
+
 Open the HR_Analytics_Dashboard.pbix file in Power BI Desktop.
 Load the data (either from a file or from your organization's database).
 Interact with the dashboard:
